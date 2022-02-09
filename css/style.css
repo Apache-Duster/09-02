@@ -62,7 +62,7 @@ nav ul li {
   border-radius: 2px;
 }
 nav ul li a {
-  color: whitesmoke;
+  color: rgb(219, 13, 13);
   text-decoration: none;
 }
 ul li:hover {
